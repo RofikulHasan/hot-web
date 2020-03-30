@@ -1,0 +1,29 @@
+.bg{
+    background-color: #00ffff; 
+    border-radius: 10px;
+    
+    
+}
+.container{
+  margin-bottom: 50px;
+}
+
+
+  .col{
+      color: grey;
+  }
+
+  .carousel-item{
+    padding: 10px 40px;
+  }
+  .text-right{
+    color: orange;
+    padding-bottom: 30px;
+  }
+  .card-footer{
+    border-top: none;
+    background-color: white;
+  }
+ .card{
+   box-shadow: lightgray 3px 3px 15px;
+ }
